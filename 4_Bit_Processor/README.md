@@ -20,7 +20,7 @@ STORE operation result:3,
 Behavioral simulation completed successfully.
 Waveform outputs verified in Vivado Simulator.
 ## Tools Used
-Verilog HDL — RTL Design
+Verilog HDL — RTL Design,
 Vivado 2024.2 — Simulation and waveform analysis
 
 ## Conclusion
