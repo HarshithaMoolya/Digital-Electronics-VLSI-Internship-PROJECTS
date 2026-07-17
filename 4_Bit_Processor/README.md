@@ -1,7 +1,7 @@
 ## Project 2 — Topic 7: Design and Simulation of 4-bit Processor
 ## Description
 Designed a simple 4-bit Processor with a custom instruction set architecture (ISA).
-Implemented 8 instructions: ADD, SUB, AND, OR, NOT, XOR, LOAD, STORE
+Implemented 8 instructions: ADD, SUB, AND, OR, NOT, XOR, LOAD, STORE.
 
 Implemented the following processor modules:
 ALU (Arithmetic Logic Unit),
