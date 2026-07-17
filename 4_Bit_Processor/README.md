@@ -7,7 +7,7 @@ Implemented the following processor modules:
 ALU (Arithmetic Logic Unit),
 Register File,
 Control Unit,
-Data Memory,
+Data Memory
 ## Results
 ADD operation result: 7,
 SUB operation result: 2,
